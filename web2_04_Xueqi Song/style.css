@@ -1,0 +1,44 @@
+body {
+  background: #073775;
+  color: #FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px 20px;
+  height: 2000px;
+  text-align: left;
+}
+
+.btn, .btn-pink, .btn-blue, .btn-white {
+  width: 50px;
+  height: 20px;
+  border-radius: 25px;
+  display: inline-block;
+  padding: 10px;
+  cursor: pointer;
+  margin: 20px;
+  font-weight: 700;
+}
+
+
+
+
+
+.btn-pink {
+  color: #ffffff;
+}
+
+hr {
+  margin: 30px 100px;
+}
+
+#wrapper {
+  margin: 0 auto;
+  padding: 5%;
+}
+
+#content img {
+  padding: 1%;
+  vertical-align: middle;
+  width: 20%;
+}
+
+/*# sourceMappingURL=style.css.map */
